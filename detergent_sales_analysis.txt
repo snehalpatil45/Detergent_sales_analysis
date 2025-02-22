@@ -1,0 +1,83 @@
+# 🧼 Detergent Sales Analysis
+
+## 📌 Project Overview
+This project analyzes the **-11% drop in detergent sales** from **September 2018 to September 2019** using data analytics and visualization techniques.
+Our team of four explored customer behavior, sales trends, and the impact of promotions to identify key factors contributing to the decline.
+
+## 🎯 Objectives
+- Identify factors contributing to the sales decline.
+- Analyze customer segmentation and retention trends.
+- Evaluate the impact of promotions on sales.
+- Forecast future detergent sales using predictive analytics.
+
+## 📊 Key Insights & Methods
+ *Customer Segmentation: 
+       Classify customers into different groups based on purchasing behavior.
+
+ *Sales Trend Analysis: 
+       Monthly and regional sales comparisons to detect anomalies.
+
+ *Promotion Effectiveness: 
+       Assess the impact of discounts and marketing campaigns.
+
+ *Predictive Analytics: 
+       Use machine learning models to forecast future sales trends.
+
+## 🛠️ Tools & Technologies
+*Programming Languages: 
+    Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+
+*Data Visualization: 
+    Matplotlib, Seaborn, Plotly
+
+*Machine Learning: 
+    Regression models, Prophet for forecasting
+
+*Database & Querying: 
+    SQL for data extraction
+
+## 📂 Dataset
+ *Sales Data: 
+     Date, Product ID, Price, Quantity Sold, Total Revenue
+ *Customer Data: 
+     Age, Location, Purchase Frequency
+ *Promotional Data: 
+     Discounts, Campaign Dates, Advertisement Spend
+
+## 🚀 Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/detergent-sales-analysis.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd detergent-sales-analysis
+   ```
+3. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the analysis:
+   ```bash
+   python analysis.py
+   ```
+
+## 📈 Results & Findings
+  -Sales declined by 11%, with a significant drop in Q3 2019.
+  -Elite and Good customer segments showed reduced spending.
+  -Promotional campaigns had mixed effectiveness, with some discounts failing to boost sales.
+  -Forecasting models predict a slight recovery, given strategic pricing adjustments.
+
+## 🏆 Conclusion & Recommendations:
+- Implement targeted marketing campaigns to engage high-value customers.
+- Optimize promotional strategies to focus on effective discount structures.
+- Improve customer retention programs to increase loyalty and repeat purchases.
+- Use predictive analytics to optimize inventory and pricing decisions.
+
+## 👥 Team Members
+- SNEHAL PATIL
+- SARA MASKE
+- RAJAT KULKARNI
+- SANSKAR PAWAR  
+
+
